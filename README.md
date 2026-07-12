@@ -1,6 +1,6 @@
 # 💫 About Me
 
-* 🔭 **Currently working on:** Hackathon Team Connector project using Spring Boot, and a research project on image forecasting using ARIMA/SARIMA.
+* 🔭 **Currently working on:** Hackathon Team Connector project using Spring Boot.
 * 👯 **Looking to collaborate on:** Open-source projects involving Java, Spring Boot, or backend systems.
 * 🤝 **Looking for help with:** Advanced Data Structures & Algorithms patterns and optimizing LeetCode problem-solving strategies.
 * 🌱 **Currently learning:** Deep diving into the Java Spring Boot framework and exploring new research avenues in AI/ML.
